@@ -8,6 +8,8 @@
 #include <fwk/vulkan/vulkan_image.h>
 #include <fwk/vulkan/vulkan_internal.h>
 
+#include <climits>
+
 //#define LOGGING
 
 CachedTexture::CachedTexture() : m_id(-1) {}

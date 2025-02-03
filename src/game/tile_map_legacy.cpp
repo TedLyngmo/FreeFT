@@ -8,6 +8,8 @@
 #include <fwk/io/gzip_stream.h>
 #include <fwk/io/memory_stream.h>
 
+#include <climits>
+
 //#define LOGGING
 
 #ifndef LOGGING
